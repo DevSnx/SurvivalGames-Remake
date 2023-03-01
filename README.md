@@ -11,3 +11,4 @@ Todo
 + some changes
 + setup gui
 + nice wiki and setup page
++ Tier I, II & III Chests
