@@ -2,6 +2,8 @@
 A Remake of my SurvivalGames plugin from 2020
 
 # Todo
++ Bugeecord Support
++ Deathmatch or Worldboarder
 + Multi Language
 + Team Modes, Duo, Solo, Trios, Teams
 + Spectator Mode
